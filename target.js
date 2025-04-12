@@ -1,0 +1,3 @@
+(() => {
+    return console.log("Hacked");
+})();
