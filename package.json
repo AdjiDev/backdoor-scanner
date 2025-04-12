@@ -1,0 +1,29 @@
+{
+  "name": "@adjidev/backdoor-scanner",
+  "version": "1.0.1",
+  "description": "Advanced malware detection for JavaScript/HTML/PHP files",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "malware",
+    "security",
+    "scanner",
+    "detection",
+    "hack",
+    "backdoor"
+  ],
+  "author": "adjidev",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^10.0.0"
+  }
+}
