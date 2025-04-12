@@ -1,1 +1,1 @@
-see (docs)[https://discover.adjisandev.tech/security/backdoor-scanner]
+see [docs](https://discover.adjisandev.tech/security/backdoor-scanner)
