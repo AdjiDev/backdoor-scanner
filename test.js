@@ -1,6 +1,6 @@
-const { scanFiles } = require('@adjidev/backdoor-scanner');
+const { scanFiles } = require('backdoor-scanner');
 
-const res = scanFiles(['case.js'], {
+const res = scanFiles(['target.js'], {
   deepScan: true,
   scanNodeModules: false,
   maxFileSizeMB: 5
